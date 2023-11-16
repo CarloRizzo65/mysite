@@ -1,0 +1,6 @@
+td.field-contenuto {
+    width:800px;
+    height:250px;
+    overflow: auto;
+    display: inline-block;
+}
